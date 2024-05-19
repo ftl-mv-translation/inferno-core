@@ -1,0 +1,53 @@
+{
+    "filePatterns": [
+        // Files to translate (glob pattern)
+
+        "data/blueprints.xml.append",
+        "data/events_special_curator.xml.append",
+        "data/events_special_lightspeed.xml.append",
+        "data/events_special_main.xml.append",
+        "data/events_special_mechanical.xml.append",
+        "data/events_special_storage.xml.append",
+        "data/text_misc.xml.append",
+        "mod-appendix/metadata.xml",
+    ],
+    "stringSelectionXPath": [
+        // XML text extraction rules (XPath)
+
+        "//augBlueprint/title",
+        "//augBlueprint/desc",
+        "//findWithChildLike/selector",
+        "//text",
+        "/metadata/title",
+        "/metadata/description",
+    ],
+
+    "languageSpecifics": {
+        "ko": {
+            "copySourceTemplate": [
+                // Aka wont-translate.
+                // Specify which entries are 1:1-copied from English by default when syncing the English changes.
+
+                "//crewBlueprint/short",
+                "//droneBlueprint/short",
+                "//weaponBlueprint/short",
+                "//crewMember",
+                "//customShip/crew/*/@name",
+                "//mod-append:customShip/crew/*/@name",
+                "//spawnCrew/name",
+            ]
+        },
+        "zh_Hans": {
+            // Apply the translation flagged as fuzzy.
+            "applyUseFuzzy": true
+        }
+    },
+
+    "packaging": {
+        "fullOriginal": [
+            "",
+        ],
+        "prefix": "Inferno-Core",
+        "version": "2.5"
+    }
+}
