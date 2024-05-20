@@ -16,10 +16,13 @@
 
         "//augBlueprint/title",
         "//augBlueprint/desc",
-        "//findWithChildLike/selector",
+        "//mod:findWithChildLike/mod:selector",
+        "//mod:findWithChildLike/mod-overwrite:text",
         "//text",
-        "/metadata/title",
-        "/metadata/description",
+        "//metadata/title",
+        "//metadata/description",
+        "//eventButton/tooltip",
+        "//enentButton/inactiveTooltip"
     ],
 
     "languageSpecifics": {
@@ -45,9 +48,9 @@
 
     "packaging": {
         "fullOriginal": [
-            "",
+            "https://drive.usercontent.google.com/download?id=14XXh8w6SLV78nC9sU-MA0qHKCYzo21tk&export=download&confirm=xxx",
         ],
         "prefix": "Inferno-Core",
-        "version": "2.5"
+        "version": "1.2.3.1"
     }
 }
