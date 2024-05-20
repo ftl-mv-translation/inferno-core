@@ -1,61 +1,68 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-05-20 17:59+0000\n"
+"Last-Translator: Janosch Javurek <ppan71749@gmail.com>\n"
+"Language-Team: German <https://weblate.hyperq.be/projects/inferno-core/"
+"datablueprints-xml-append/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/blueprints.xml.append:2
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_MIND\"]/title"
-msgstr ""
+msgstr "Gedankenkontrollen-Beschleuniger"
 
 #: src-en/data/blueprints.xml.append:3
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_MIND\"]/desc"
-msgstr ""
+msgstr "Verringert die Abklingzeit des Gedankenkontrollsystems um 5 Sekunden."
 
 #: src-en/data/blueprints.xml.append:12
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_CLOAK\"]/title"
-msgstr ""
+msgstr "Tarnungs-Beschleuniger"
 
 #: src-en/data/blueprints.xml.append:13
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_CLOAK\"]/desc"
-msgstr ""
+msgstr "Verringert die Abklingzeit des Tarnsystems um 5 Sekunden."
 
 #: src-en/data/blueprints.xml.append:22
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_HACK\"]/title"
-msgstr ""
+msgstr "Hacking-Beschleuniger"
 
 #: src-en/data/blueprints.xml.append:23
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_HACK\"]/desc"
-msgstr ""
+msgstr "Verringert die Abklingzeit des Hackingsystems um 5 Sekunden."
 
 #: src-en/data/blueprints.xml.append:32
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_TEMPORAL\"]/title"
-msgstr ""
+msgstr "Temporal-Beschleuniger"
 
 #: src-en/data/blueprints.xml.append:33
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_TEMPORAL\"]/desc"
-msgstr ""
+msgstr "Verringert die Abklingzeit des Temporalmanipulators um 5 Sekunden."
 
 #: src-en/data/blueprints.xml.append:42
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_TELEPORT\"]/title"
-msgstr ""
+msgstr "Teleporter-Beschleuniger"
 
 #: src-en/data/blueprints.xml.append:43
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_TELEPORT\"]/desc"
-msgstr ""
+msgstr "Verringert die Abklingzeit des Teleporters um 5 Sekunden."
 
 #: src-en/data/blueprints.xml.append:52
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_BATTERY\"]/title"
-msgstr ""
+msgstr "Batterie-Beschleuniger"
 
 #: src-en/data/blueprints.xml.append:53
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_BATTERY\"]/desc"
-msgstr ""
+msgstr "Verringert die Abklingzeit der Hilfsbatterie um 5 Sekunden."
 
 #: src-en/data/blueprints.xml.append:62
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LONG_MIND\"]/title"
-msgstr ""
+msgstr "Gedankenkontrollen-Verlängerer"
 
 #: src-en/data/blueprints.xml.append:63
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LONG_MIND\"]/desc"
