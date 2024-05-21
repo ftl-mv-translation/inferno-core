@@ -6,9 +6,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: src-en/mod-appendix/metadata.xml:2
-msgid "mod-appendix/metadata.xml$/metadata/title"
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
 msgstr ""
 
 #: src-en/mod-appendix/metadata.xml:6
-msgid "mod-appendix/metadata.xml$/metadata/description"
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
 msgstr ""

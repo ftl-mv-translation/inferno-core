@@ -158,21 +158,21 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:105
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_cnc\"]"
 msgstr ""
-"C&C WEAPONS\n"
+"C WEAPONS\n"
 "\tCurrently Disabled.\n"
 "\tClick to see more info."
 
 #: src-en/data/text_misc.xml.append:108
 msgid "data/text_misc.xml.append$//text[@name=\"info_addon_cnc\"]"
 msgstr ""
-"C&C WEAPONS: RENEGADE EDITION\n"
+"C WEAPONS: RENEGADE EDITION\n"
 "\tDeveloped by: Chrono Vortex\n"
 "\tAdditional credit: Vertaalfout, R4V3-0N\n"
 "\tCurrently Disabled.\n"
 "\n"
 "\tAdds over a dozen new weapons and a couple other surprises based on the Command and Conquer franchise. \n"
 "\n"
-"\tTo enable C&C Weapons, go to the subset forums and visit the MV addon page!"
+"\tTo enable C Weapons, go to the subset forums and visit the MV addon page!"
 
 #: src-en/data/text_misc.xml.append:117
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_pip\"]"
@@ -210,6 +210,6 @@ msgstr "14s control, 4 targets"
 #: src-en/data/text_misc.xml.append:140
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_rad2\"]"
 msgstr ""
-"R&D\n"
+"RD\n"
 "\t\tCurrently Disabled.\n"
 "\t\tClick to see more info."

@@ -6,11 +6,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: src-en/mod-appendix/metadata.xml:2
-msgid "mod-appendix/metadata.xml$/metadata/title"
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
 msgstr "INFERNO-CORE"
 
 #: src-en/mod-appendix/metadata.xml:6
-msgid "mod-appendix/metadata.xml$/metadata/description"
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
 msgstr ""
 "Dependency mod for Forgemaster. (and Forgotten races!)\n"
 "Features:\n"
@@ -22,4 +22,4 @@ msgstr ""
 "- some framework stuff for Forgemaster\n"
 "- some system cooldown related augment implementations\n"
 "- overwrites room resist images and implements dynamic rendering system\n"
-"... and more stuff"
+"... and more stuff"    
