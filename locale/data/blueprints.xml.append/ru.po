@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-05-22 09:26+0000\n"
-"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-05-26 12:26+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/inferno-core/"
 "datablueprints-xml-append/ru/>\n"
 "Language: ru\n"
@@ -136,7 +136,7 @@ msgstr "Самое быстрое оружие"
 
 #: src-en/data/blueprints.xml.append:138
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FASTEST_WEAPONS\"]/desc"
-msgstr ""
+msgstr "Ускоряет зарядку оружия в 10 000 раз"
 
 #: src-en/data/blueprints.xml.append:146
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"WEAPON_LOCKDOWN\"]/title"
