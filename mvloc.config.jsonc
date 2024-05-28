@@ -25,6 +25,8 @@
         "//enentButton/inactiveTooltip"
     ],
 
+    "useDummyRoot": true,
+
     "languageSpecifics": {
         "ko": {
             "copySourceTemplate": [
@@ -48,7 +50,7 @@
 
     "packaging": {
         "fullOriginal": [
-            "https://drive.usercontent.google.com/download?id=14XXh8w6SLV78nC9sU-MA0qHKCYzo21tk&export=download&confirm=xxx",
+            "https://github.com/ftl-mv-translation/inferno-core/raw/inferno-core-english/Inferno-Core_1.2.3.1.zip",
         ],
         "prefix": "Inferno-Core",
         "version": "1.2.3.1"
