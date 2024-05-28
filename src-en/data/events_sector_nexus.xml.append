@@ -1,3 +1,0 @@
-<mod:findName type="event" name="PRIME_SPARE">
-    <mod-append:clearTriggeredEvent name="FMCORE_ONDAMAGE"/>
-</mod:findName>
