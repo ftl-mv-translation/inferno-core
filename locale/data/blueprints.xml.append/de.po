@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-05-27 17:26+0000\n"
+"PO-Revision-Date: 2024-05-30 15:26+0000\n"
 "Last-Translator: Janosch Javurek <ppan71749@gmail.com>\n"
 "Language-Team: German <https://weblate.hyperq.be/projects/inferno-core/"
 "datablueprints-xml-append/de/>\n"
@@ -230,46 +230,46 @@ msgstr "Reduziert die Feuerchance durch Attacken um 10%"
 #: src-en/data/blueprints.xml.append:241
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FMCORE_ASTEROID_RESIST_HULL\"]/title"
-msgstr ""
+msgstr "Anti-Asteroiden-Platten"
 
 #: src-en/data/blueprints.xml.append:242
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FMCORE_ASTEROID_RESIST_HULL\"]/desc"
-msgstr ""
+msgstr "Asteroiden richten deinem Schiff keinen Schaden an."
 
 #: src-en/data/blueprints.xml.append:251
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FMCORE_ASTEROID_RESIST_SHIELD\"]/title"
-msgstr ""
+msgstr "Anti-Asteroiden-Schilde"
 
 #: src-en/data/blueprints.xml.append:252
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FMCORE_ASTEROID_RESIST_SHIELD\"]/desc"
-msgstr ""
+msgstr "Asteroiden platzen keine Schildblasen."
 
 #: src-en/data/blueprints.xml.append:291
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_SHIP\"]/title"
-msgstr ""
+msgstr "Automatisierte Schiffsfunktionen"
 
 #: src-en/data/blueprints.xml.append:292
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_SHIP\"]/desc"
-msgstr ""
+msgstr "Macht dein Schiff automatisch. DU SOLLTEST DAS NIEMALS SEHEN."
 
 #: src-en/data/blueprints.xml.append:317
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_MANNING\"]/title"
-msgstr ""
+msgstr "Automatisierte Bemannungsfunktion"
 
 #: src-en/data/blueprints.xml.append:318
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_MANNING\"]/desc"
-msgstr ""
+msgstr "Bemannt Schiffsysteme. DU SOLLTEST DAS NIEMALS SEHEN."
 
 #: src-en/data/blueprints.xml.append:340
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_REPAIR\"]/title"
-msgstr ""
+msgstr "Automatische Reparaturfunktion"
 
 #: src-en/data/blueprints.xml.append:341
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_REPAIR\"]/desc"
-msgstr ""
+msgstr "Repariert Schiffsysteme. DU SOLLTEST DAS NIEMALS SEHEN."
