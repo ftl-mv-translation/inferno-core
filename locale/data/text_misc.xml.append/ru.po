@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-05-27 17:26+0000\n"
+"PO-Revision-Date: 2024-06-02 20:26+0000\n"
 "Last-Translator: Роман <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/inferno-core/"
 "datatext_miscxmlappend/ru/>\n"
@@ -281,7 +281,7 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:139
 msgid "data/text_misc.xml.append$//text[@name=\"mind_4\"]"
-msgstr "14с. контроля, 4 цели"
+msgstr "14с. контроля, 2 цели"
 
 #: src-en/data/text_misc.xml.append:140
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_rad2\"]"
