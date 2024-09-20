@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-05-21 08:11+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-09-21 17:42+0000\n"
+"Last-Translator: shadowcrowX <13549855@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "inferno-core/datablueprints-xml-append/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,63 +10,63 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.16.4\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/blueprints.xml.append:2
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_MIND\"]/title"
-msgstr ""
+msgstr "心灵控制加速器"
 
 #: src-en/data/blueprints.xml.append:3
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_MIND\"]/desc"
-msgstr ""
+msgstr "减少心灵控制系统的冷却时间 5 秒。"
 
 #: src-en/data/blueprints.xml.append:12
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_CLOAK\"]/title"
-msgstr ""
+msgstr "隐形加速器"
 
 #: src-en/data/blueprints.xml.append:13
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_CLOAK\"]/desc"
-msgstr ""
+msgstr "减少隐形系统的冷却时间 5 秒。"
 
 #: src-en/data/blueprints.xml.append:22
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_HACK\"]/title"
-msgstr ""
+msgstr "黑客加速器"
 
 #: src-en/data/blueprints.xml.append:23
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_HACK\"]/desc"
-msgstr ""
+msgstr "减少黑客系统的冷却时间 5 秒。"
 
 #: src-en/data/blueprints.xml.append:32
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_TEMPORAL\"]/title"
-msgstr ""
+msgstr "时间加速器"
 
 #: src-en/data/blueprints.xml.append:33
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_TEMPORAL\"]/desc"
-msgstr ""
+msgstr "减少时间系统的冷却时间 5 秒。"
 
 #: src-en/data/blueprints.xml.append:42
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_TELEPORT\"]/title"
-msgstr ""
+msgstr "传送加速器"
 
 #: src-en/data/blueprints.xml.append:43
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_TELEPORT\"]/desc"
-msgstr ""
+msgstr "减少传送系统的冷却时间 5 秒。"
 
 #: src-en/data/blueprints.xml.append:52
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_BATTERY\"]/title"
-msgstr ""
+msgstr "备用电池加速器"
 
 #: src-en/data/blueprints.xml.append:53
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FAST_BATTERY\"]/desc"
-msgstr ""
+msgstr "减少备用电池系统的冷却时间 5 秒。"
 
 #: src-en/data/blueprints.xml.append:62
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LONG_MIND\"]/title"
-msgstr ""
+msgstr "心灵控制延长器"
 
 #: src-en/data/blueprints.xml.append:63
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LONG_MIND\"]/desc"
-msgstr ""
+msgstr "使心灵控制系统的运行时间翻倍。"
 
 #: src-en/data/blueprints.xml.append:72
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LONG_HACK\"]/title"
