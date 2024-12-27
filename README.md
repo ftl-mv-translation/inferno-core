@@ -1,5 +1,7 @@
 # Inferno Core Translation Project
 
+# This project is archived. See [Fusion](https://github.com/MV-Fusion-Team/FTL-Multiverse-Fusion), the successor of Inferno Core.
+
 ## Link to the latest nightly translation
 
 Download from [HERE](https://github.com/ftl-mv-translation/inferno-core/releases/latest). (Updated every UTC 00:00)
